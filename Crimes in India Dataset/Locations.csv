@@ -1,0 +1,601 @@
+Location_ID,City,State,Area_Type,Zone,Crime_Density
+L001,Jammu,West Bengal,Rural,Tier-3,52
+L002,Jamshedpur,Himachal Pradesh,Urban,Metro,39
+L003,Bathinda,Sikkim,Semi-Urban,Tier-2,21
+L004,Ghaziabad,Punjab,Semi-Urban,Tier-2,13
+L005,Nellore,Chhattisgarh,Rural,Tier-3,81
+L006,Unnao,Telangana,Semi-Urban,Tier-2,81
+L007,Naihati,Uttarakhand,Rural,Tier-3,32
+L008,Jammu,Goa,Semi-Urban,Tier-2,69
+L009,Rajahmundry,Karnataka,Rural,Tier-3,14
+L010,Kulti,Arunachal Pradesh,Urban,Metro,32
+L011,Medininagar,Tamil Nadu,Rural,Tier-3,1
+L012,Akola,Karnataka,Rural,Tier-3,97
+L013,Dibrugarh,Uttar Pradesh,Urban,Metro,61
+L014,Bhalswa Jahangir Pur,Gujarat,Rural,Tier-3,89
+L015,Khandwa,Manipur,Urban,Metro,9
+L016,Bhubaneswar,Andhra Pradesh,Rural,Tier-3,20
+L017,Madanapalle,Goa,Rural,Tier-3,64
+L018,Tezpur,Maharashtra,Rural,Tier-3,21
+L019,Farrukhabad,Himachal Pradesh,Urban,Metro,63
+L020,Patna,Mizoram,Rural,Tier-3,4
+L021,Amritsar,Arunachal Pradesh,Urban,Metro,78
+L022,Jalgaon,Haryana,Rural,Tier-3,89
+L023,Durg,Tripura,Rural,Tier-3,38
+L024,Vijayawada,Meghalaya,Urban,Metro,33
+L025,Siliguri,Nagaland,Rural,Tier-3,32
+L026,Dindigul,Madhya Pradesh,Semi-Urban,Tier-2,89
+L027,Secunderabad,Madhya Pradesh,Rural,Tier-3,63
+L028,Saharsa,Madhya Pradesh,Semi-Urban,Tier-2,44
+L029,Bikaner,Meghalaya,Rural,Tier-3,63
+L030,Kavali,Goa,Rural,Tier-3,87
+L031,Salem,Madhya Pradesh,Rural,Tier-3,86
+L032,Bhimavaram,Uttarakhand,Urban,Metro,55
+L033,Bahraich,Haryana,Urban,Metro,25
+L034,North Dumdum,Kerala,Rural,Tier-3,4
+L035,Mau,Tamil Nadu,Rural,Tier-3,2
+L036,Kishanganj,West Bengal,Urban,Metro,70
+L037,Danapur,Tripura,Semi-Urban,Tier-2,63
+L038,Cuttack,Uttarakhand,Urban,Metro,5
+L039,New Delhi,Uttarakhand,Rural,Tier-3,100
+L040,Ballia,Haryana,Semi-Urban,Tier-2,18
+L041,Bhatpara,Himachal Pradesh,Urban,Metro,21
+L042,Haridwar,Manipur,Urban,Metro,54
+L043,Thane,Uttarakhand,Rural,Tier-3,93
+L044,Sirsa,Goa,Urban,Metro,87
+L045,Eluru,Arunachal Pradesh,Rural,Tier-3,31
+L046,Ratlam,Madhya Pradesh,Urban,Metro,23
+L047,Hospet,Himachal Pradesh,Urban,Metro,59
+L048,Uluberia,Mizoram,Rural,Tier-3,11
+L049,Dhanbad,Telangana,Semi-Urban,Tier-2,40
+L050,Kumbakonam,Madhya Pradesh,Rural,Tier-3,62
+L051,Aurangabad,Karnataka,Urban,Metro,50
+L052,Arrah,Tripura,Rural,Tier-3,55
+L053,Amravati,Assam,Semi-Urban,Tier-2,44
+L054,Bhalswa Jahangir Pur,Arunachal Pradesh,Rural,Tier-3,59
+L055,Begusarai,Odisha,Rural,Tier-3,62
+L056,Chinsurah,Jharkhand,Urban,Metro,94
+L057,Katni,Gujarat,Rural,Tier-3,67
+L058,Bhagalpur,Uttar Pradesh,Urban,Metro,13
+L059,Arrah,Tripura,Urban,Metro,23
+L060,Yamunanagar,Punjab,Rural,Tier-3,42
+L061,Bhilai,Punjab,Rural,Tier-3,31
+L062,Tiruchirappalli,Meghalaya,Semi-Urban,Tier-2,82
+L063,Baranagar,Himachal Pradesh,Semi-Urban,Tier-2,7
+L064,Sambhal,Chhattisgarh,Urban,Metro,24
+L065,Burhanpur,Bihar,Urban,Metro,46
+L066,Panvel,West Bengal,Rural,Tier-3,37
+L067,Kirari Suleman Nagar,Nagaland,Rural,Tier-3,81
+L068,Pudukkottai,Arunachal Pradesh,Rural,Tier-3,18
+L069,Rewa,Andhra Pradesh,Semi-Urban,Tier-2,49
+L070,Bhimavaram,Meghalaya,Semi-Urban,Tier-2,53
+L071,Siwan,Telangana,Semi-Urban,Tier-2,63
+L072,Ulhasnagar,Uttarakhand,Urban,Metro,55
+L073,Maheshtala,Odisha,Urban,Metro,95
+L074,Kirari Suleman Nagar,Mizoram,Semi-Urban,Tier-2,21
+L075,Aurangabad,Mizoram,Rural,Tier-3,51
+L076,Sultan Pur Majra,Uttarakhand,Semi-Urban,Tier-2,78
+L077,Nagercoil,Kerala,Semi-Urban,Tier-2,77
+L078,Bhimavaram,West Bengal,Urban,Metro,12
+L079,Mira-Bhayandar,Manipur,Rural,Tier-3,10
+L080,Lucknow,Karnataka,Rural,Tier-3,22
+L081,Ozhukarai,Tripura,Semi-Urban,Tier-2,76
+L082,Bhubaneswar,Karnataka,Semi-Urban,Tier-2,9
+L083,Madhyamgram,Telangana,Rural,Tier-3,66
+L084,Suryapet,Bihar,Urban,Metro,12
+L085,Bathinda,Odisha,Urban,Metro,93
+L086,Nangloi Jat,Kerala,Rural,Tier-3,51
+L087,Unnao,West Bengal,Semi-Urban,Tier-2,66
+L088,Bijapur,Bihar,Rural,Tier-3,86
+L089,Mahbubnagar,Odisha,Semi-Urban,Tier-2,47
+L090,Raurkela Industrial Township,Goa,Urban,Metro,95
+L091,Sikar,Bihar,Semi-Urban,Tier-2,18
+L092,Ambala,Goa,Rural,Tier-3,31
+L093,Mira-Bhayandar,Goa,Rural,Tier-3,90
+L094,Vellore,West Bengal,Rural,Tier-3,65
+L095,Sambhal,Mizoram,Semi-Urban,Tier-2,84
+L096,Burhanpur,Andhra Pradesh,Urban,Metro,25
+L097,Udaipur,West Bengal,Rural,Tier-3,43
+L098,Nangloi Jat,Manipur,Rural,Tier-3,41
+L099,Meerut,Andhra Pradesh,Rural,Tier-3,45
+L100,Anand,Manipur,Urban,Metro,85
+L101,Tenali,Manipur,Urban,Metro,36
+L102,Tiruvottiyur,Arunachal Pradesh,Urban,Metro,24
+L103,Orai,Chhattisgarh,Semi-Urban,Tier-2,81
+L104,Deoghar,Chhattisgarh,Rural,Tier-3,1
+L105,Ichalkaranji,Andhra Pradesh,Rural,Tier-3,74
+L106,Surendranagar Dudhrej,West Bengal,Urban,Metro,44
+L107,Hubli–Dharwad,Odisha,Semi-Urban,Tier-2,17
+L108,Chinsurah,Assam,Semi-Urban,Tier-2,69
+L109,Bardhaman,Telangana,Rural,Tier-3,82
+L110,Kochi,Meghalaya,Rural,Tier-3,91
+L111,Gandhidham,Madhya Pradesh,Urban,Metro,54
+L112,Fatehpur,Chhattisgarh,Urban,Metro,51
+L113,Nagpur,Gujarat,Semi-Urban,Tier-2,78
+L114,Karaikudi,Rajasthan,Semi-Urban,Tier-2,4
+L115,Amritsar,Gujarat,Rural,Tier-3,90
+L116,Parbhani,Telangana,Semi-Urban,Tier-2,33
+L117,Mathura,Goa,Semi-Urban,Tier-2,59
+L118,Panvel,Tripura,Rural,Tier-3,78
+L119,Mango,Jharkhand,Rural,Tier-3,14
+L120,Lucknow,Odisha,Urban,Metro,25
+L121,Pimpri-Chinchwad,Himachal Pradesh,Urban,Metro,95
+L122,Ranchi,Manipur,Rural,Tier-3,71
+L123,Alwar,Sikkim,Semi-Urban,Tier-2,11
+L124,Guntakal,Arunachal Pradesh,Urban,Metro,34
+L125,Faridabad,Himachal Pradesh,Rural,Tier-3,27
+L126,Agartala,Manipur,Semi-Urban,Tier-2,17
+L127,Bardhaman,Meghalaya,Urban,Metro,87
+L128,Avadi,Odisha,Semi-Urban,Tier-2,99
+L129,Imphal,Mizoram,Rural,Tier-3,37
+L130,Morbi,Gujarat,Semi-Urban,Tier-2,56
+L131,Panvel,Meghalaya,Urban,Metro,82
+L132,Ambala,Goa,Urban,Metro,33
+L133,Kulti,Meghalaya,Urban,Metro,51
+L134,Patna,Nagaland,Urban,Metro,6
+L135,Tadepalligudem,Telangana,Urban,Metro,95
+L136,Jamalpur,Maharashtra,Semi-Urban,Tier-2,37
+L137,Bhusawal,Madhya Pradesh,Semi-Urban,Tier-2,83
+L138,Bhavnagar,Arunachal Pradesh,Rural,Tier-3,82
+L139,Gorakhpur,Uttarakhand,Semi-Urban,Tier-2,83
+L140,Erode,Maharashtra,Semi-Urban,Tier-2,65
+L141,Rajpur Sonarpur,Telangana,Urban,Metro,39
+L142,Baranagar,West Bengal,Rural,Tier-3,47
+L143,Siwan,Punjab,Rural,Tier-3,10
+L144,Mangalore,Haryana,Semi-Urban,Tier-2,3
+L145,Hazaribagh,Madhya Pradesh,Urban,Metro,59
+L146,Bhatpara,Mizoram,Rural,Tier-3,59
+L147,Bikaner,Goa,Rural,Tier-3,77
+L148,Firozabad,Kerala,Semi-Urban,Tier-2,75
+L149,Bhusawal,Bihar,Rural,Tier-3,100
+L150,Ghaziabad,Arunachal Pradesh,Rural,Tier-3,73
+L151,Cuttack,Gujarat,Urban,Metro,51
+L152,Ulhasnagar,Himachal Pradesh,Semi-Urban,Tier-2,74
+L153,Sirsa,Goa,Semi-Urban,Tier-2,54
+L154,Karnal,Andhra Pradesh,Semi-Urban,Tier-2,78
+L155,Bhalswa Jahangir Pur,Manipur,Urban,Metro,15
+L156,Bhilwara,Rajasthan,Rural,Tier-3,35
+L157,Khammam,Karnataka,Rural,Tier-3,58
+L158,Aurangabad,Telangana,Semi-Urban,Tier-2,49
+L159,Nagaon,Gujarat,Semi-Urban,Tier-2,15
+L160,Serampore,Manipur,Semi-Urban,Tier-2,83
+L161,Bally,Manipur,Rural,Tier-3,61
+L162,Durgapur,West Bengal,Semi-Urban,Tier-2,89
+L163,Ghaziabad,Maharashtra,Urban,Metro,38
+L164,Katihar,Meghalaya,Rural,Tier-3,14
+L165,Bikaner,Kerala,Semi-Urban,Tier-2,94
+L166,Bhind,Madhya Pradesh,Semi-Urban,Tier-2,14
+L167,Medininagar,Nagaland,Urban,Metro,45
+L168,Baranagar,Karnataka,Semi-Urban,Tier-2,72
+L169,Pali,Arunachal Pradesh,Rural,Tier-3,6
+L170,Amritsar,Punjab,Rural,Tier-3,93
+L171,Thane,Nagaland,Urban,Metro,40
+L172,Mahbubnagar,Arunachal Pradesh,Urban,Metro,65
+L173,Katihar,Andhra Pradesh,Rural,Tier-3,26
+L174,Agra,Meghalaya,Semi-Urban,Tier-2,30
+L175,Thiruvananthapuram,Chhattisgarh,Urban,Metro,40
+L176,Madurai,West Bengal,Semi-Urban,Tier-2,2
+L177,Satara,Uttarakhand,Rural,Tier-3,77
+L178,Chinsurah,Meghalaya,Rural,Tier-3,5
+L179,Amravati,Punjab,Rural,Tier-3,17
+L180,Karaikudi,Telangana,Semi-Urban,Tier-2,48
+L181,Darbhanga,Himachal Pradesh,Urban,Metro,48
+L182,Rourkela,Maharashtra,Semi-Urban,Tier-2,18
+L183,Thoothukudi,Uttar Pradesh,Rural,Tier-3,68
+L184,Durg,Sikkim,Urban,Metro,23
+L185,Jehanabad,Nagaland,Semi-Urban,Tier-2,98
+L186,Jabalpur,Manipur,Urban,Metro,75
+L187,Motihari,Andhra Pradesh,Rural,Tier-3,46
+L188,Thane,Maharashtra,Semi-Urban,Tier-2,79
+L189,Malegaon,Mizoram,Rural,Tier-3,2
+L190,Vijayanagaram,Nagaland,Rural,Tier-3,21
+L191,Anantapuram,Tripura,Semi-Urban,Tier-2,91
+L192,Motihari,Chhattisgarh,Semi-Urban,Tier-2,68
+L193,Kavali,Assam,Rural,Tier-3,89
+L194,Tadepalligudem,Tamil Nadu,Semi-Urban,Tier-2,84
+L195,Nashik,Tripura,Urban,Metro,11
+L196,Ambattur,Odisha,Semi-Urban,Tier-2,24
+L197,Ambala,Haryana,Rural,Tier-3,69
+L198,Muzaffarpur,Rajasthan,Semi-Urban,Tier-2,9
+L199,Tiruchirappalli,Uttarakhand,Rural,Tier-3,62
+L200,Bikaner,Mizoram,Urban,Metro,98
+L201,Bhopal,Gujarat,Rural,Tier-3,97
+L202,Tiruppur,Kerala,Rural,Tier-3,46
+L203,Parbhani,Haryana,Rural,Tier-3,13
+L204,Warangal,Arunachal Pradesh,Urban,Metro,83
+L205,Gurgaon,Rajasthan,Urban,Metro,16
+L206,Karnal,Karnataka,Rural,Tier-3,54
+L207,Jehanabad,Nagaland,Semi-Urban,Tier-2,59
+L208,Nashik,Telangana,Urban,Metro,95
+L209,Nanded,Madhya Pradesh,Urban,Metro,33
+L210,Visakhapatnam,Uttarakhand,Rural,Tier-3,60
+L211,Miryalaguda,Mizoram,Urban,Metro,75
+L212,Erode,Meghalaya,Semi-Urban,Tier-2,95
+L213,Khora ,Maharashtra,Urban,Metro,96
+L214,Raurkela Industrial Township,Tripura,Semi-Urban,Tier-2,16
+L215,Dehri,Tripura,Semi-Urban,Tier-2,91
+L216,Rampur,Meghalaya,Semi-Urban,Tier-2,57
+L217,Pali,Arunachal Pradesh,Semi-Urban,Tier-2,61
+L218,Motihari,Sikkim,Rural,Tier-3,5
+L219,Jalna,Manipur,Semi-Urban,Tier-2,96
+L220,Panvel,Jharkhand,Semi-Urban,Tier-2,9
+L221,Thiruvananthapuram,West Bengal,Semi-Urban,Tier-2,16
+L222,Chapra,Jharkhand,Rural,Tier-3,25
+L223,Thane,West Bengal,Rural,Tier-3,31
+L224,Gulbarga,Manipur,Semi-Urban,Tier-2,43
+L225,Kakinada,Uttar Pradesh,Semi-Urban,Tier-2,63
+L226,Karnal,Rajasthan,Urban,Metro,74
+L227,Sasaram,Gujarat,Semi-Urban,Tier-2,13
+L228,Gudivada,Uttar Pradesh,Urban,Metro,70
+L229,Kamarhati,Arunachal Pradesh,Urban,Metro,5
+L230,Bidhannagar,Odisha,Urban,Metro,99
+L231,Ratlam,Assam,Semi-Urban,Tier-2,31
+L232,Kadapa,Punjab,Urban,Metro,90
+L233,Jehanabad,Telangana,Urban,Metro,19
+L234,Karawal Nagar,Nagaland,Rural,Tier-3,65
+L235,Hajipur,Nagaland,Urban,Metro,72
+L236,Ratlam,Arunachal Pradesh,Urban,Metro,39
+L237,North Dumdum,Punjab,Rural,Tier-3,34
+L238,Hubli–Dharwad,Haryana,Semi-Urban,Tier-2,55
+L239,Hazaribagh,Himachal Pradesh,Rural,Tier-3,69
+L240,Bijapur,Odisha,Rural,Tier-3,75
+L241,Muzaffarnagar,Karnataka,Rural,Tier-3,66
+L242,North Dumdum,Karnataka,Rural,Tier-3,49
+L243,Bathinda,Mizoram,Urban,Metro,59
+L244,Ballia,Himachal Pradesh,Semi-Urban,Tier-2,11
+L245,Agra,Manipur,Semi-Urban,Tier-2,55
+L246,Giridih,Gujarat,Rural,Tier-3,5
+L247,Bhilai,Telangana,Rural,Tier-3,19
+L248,Kulti,Jharkhand,Semi-Urban,Tier-2,79
+L249,Ghaziabad,West Bengal,Urban,Metro,74
+L250,Mysore,Punjab,Semi-Urban,Tier-2,33
+L251,Ambattur,Meghalaya,Urban,Metro,10
+L252,Karimnagar,Gujarat,Rural,Tier-3,11
+L253,Gudivada,Mizoram,Semi-Urban,Tier-2,56
+L254,Raebareli,Uttarakhand,Rural,Tier-3,85
+L255,Kavali,Manipur,Urban,Metro,48
+L256,Begusarai,Manipur,Semi-Urban,Tier-2,37
+L257,Satna,Meghalaya,Semi-Urban,Tier-2,51
+L258,Barasat,Gujarat,Urban,Metro,96
+L259,Bihar Sharif,Tamil Nadu,Semi-Urban,Tier-2,9
+L260,Delhi,Bihar,Semi-Urban,Tier-2,53
+L261,Mysore,Sikkim,Rural,Tier-3,83
+L262,Jammu,Haryana,Rural,Tier-3,41
+L263,Malegaon,West Bengal,Semi-Urban,Tier-2,11
+L264,Barasat,Rajasthan,Urban,Metro,94
+L265,Hospet,Nagaland,Rural,Tier-3,4
+L266,Dhanbad,Mizoram,Urban,Metro,72
+L267,Etawah,Jharkhand,Urban,Metro,44
+L268,Mira-Bhayandar,Himachal Pradesh,Urban,Metro,13
+L269,Varanasi,Gujarat,Rural,Tier-3,28
+L270,Jabalpur,Sikkim,Rural,Tier-3,18
+L271,Proddatur,Punjab,Semi-Urban,Tier-2,10
+L272,Phusro,Goa,Rural,Tier-3,45
+L273,Junagadh,Assam,Urban,Metro,40
+L274,Chapra,Jharkhand,Rural,Tier-3,6
+L275,Amaravati,Kerala,Urban,Metro,91
+L276,Indore,Punjab,Rural,Tier-3,28
+L277,Ghaziabad,Andhra Pradesh,Semi-Urban,Tier-2,4
+L278,Vasai-Virar,Uttarakhand,Semi-Urban,Tier-2,45
+L279,Thiruvananthapuram,Tamil Nadu,Rural,Tier-3,4
+L280,Nanded,Jharkhand,Semi-Urban,Tier-2,66
+L281,Cuttack,Karnataka,Urban,Metro,44
+L282,Begusarai,Tripura,Urban,Metro,90
+L283,Bikaner,Sikkim,Urban,Metro,34
+L284,Warangal,Haryana,Semi-Urban,Tier-2,26
+L285,Purnia,Gujarat,Rural,Tier-3,81
+L286,Yamunanagar,Himachal Pradesh,Urban,Metro,64
+L287,Meerut,Maharashtra,Semi-Urban,Tier-2,80
+L288,Akola,Assam,Semi-Urban,Tier-2,84
+L289,Singrauli,Punjab,Semi-Urban,Tier-2,59
+L290,Chittoor,Haryana,Rural,Tier-3,53
+L291,Begusarai,Punjab,Semi-Urban,Tier-2,26
+L292,Jamalpur,Himachal Pradesh,Semi-Urban,Tier-2,16
+L293,Tadepalligudem,Bihar,Semi-Urban,Tier-2,70
+L294,Pallavaram,Himachal Pradesh,Rural,Tier-3,78
+L295,Shivpuri,West Bengal,Urban,Metro,72
+L296,Durg,Jharkhand,Urban,Metro,14
+L297,Tiruchirappalli,Rajasthan,Rural,Tier-3,43
+L298,Ballia,Odisha,Rural,Tier-3,88
+L299,Jamshedpur,Bihar,Semi-Urban,Tier-2,1
+L300,Madurai,Punjab,Urban,Metro,100
+L301,Jammu,Uttar Pradesh,Semi-Urban,Tier-2,88
+L302,Satara,Odisha,Urban,Metro,29
+L303,Saharsa,Tripura,Rural,Tier-3,1
+L304,Anantapuram,Assam,Rural,Tier-3,29
+L305,Tezpur,Manipur,Semi-Urban,Tier-2,100
+L306,Sambalpur,Jharkhand,Urban,Metro,54
+L307,Panihati,Assam,Rural,Tier-3,40
+L308,Mangalore,Manipur,Semi-Urban,Tier-2,7
+L309,Bhubaneswar,Tripura,Urban,Metro,23
+L310,Rohtak,Himachal Pradesh,Rural,Tier-3,53
+L311,Bhopal,Bihar,Rural,Tier-3,96
+L312,Sangli-Miraj & Kupwad,Maharashtra,Semi-Urban,Tier-2,23
+L313,Saharanpur,Kerala,Rural,Tier-3,92
+L314,Silchar,Goa,Rural,Tier-3,100
+L315,Dhule,West Bengal,Semi-Urban,Tier-2,60
+L316,Avadi,Madhya Pradesh,Semi-Urban,Tier-2,25
+L317,Dhanbad,Haryana,Urban,Metro,47
+L318,Asansol,Odisha,Urban,Metro,64
+L319,Chinsurah,Kerala,Urban,Metro,67
+L320,Jaipur,Maharashtra,Semi-Urban,Tier-2,11
+L321,Agra,Kerala,Semi-Urban,Tier-2,32
+L322,Avadi,Nagaland,Rural,Tier-3,36
+L323,Karawal Nagar,Maharashtra,Semi-Urban,Tier-2,62
+L324,Pali,Jharkhand,Semi-Urban,Tier-2,29
+L325,Lucknow,Manipur,Rural,Tier-3,32
+L326,Ichalkaranji,Bihar,Urban,Metro,21
+L327,Indore,Bihar,Semi-Urban,Tier-2,79
+L328,Bhatpara,Andhra Pradesh,Urban,Metro,80
+L329,Alwar,Maharashtra,Semi-Urban,Tier-2,48
+L330,Phagwara,Punjab,Semi-Urban,Tier-2,43
+L331,Ongole,Jharkhand,Rural,Tier-3,62
+L332,Dibrugarh,Madhya Pradesh,Urban,Metro,51
+L333,Hyderabad,Maharashtra,Urban,Metro,12
+L334,Morena,Maharashtra,Rural,Tier-3,34
+L335,Bhavnagar,Punjab,Semi-Urban,Tier-2,56
+L336,Jehanabad,Jharkhand,Semi-Urban,Tier-2,48
+L337,Guna,Mizoram,Semi-Urban,Tier-2,89
+L338,Asansol,Manipur,Urban,Metro,19
+L339,Tiruvottiyur,Bihar,Rural,Tier-3,86
+L340,Gurgaon,Arunachal Pradesh,Rural,Tier-3,92
+L341,Kolkata,Gujarat,Urban,Metro,63
+L342,Aizawl,Andhra Pradesh,Semi-Urban,Tier-2,53
+L343,Darbhanga,Mizoram,Rural,Tier-3,14
+L344,Muzaffarnagar,Kerala,Rural,Tier-3,19
+L345,Eluru,Chhattisgarh,Semi-Urban,Tier-2,20
+L346,Bulandshahr,Punjab,Rural,Tier-3,70
+L347,Suryapet,Mizoram,Rural,Tier-3,96
+L348,Danapur,West Bengal,Semi-Urban,Tier-2,16
+L349,Sambalpur,Bihar,Urban,Metro,61
+L350,Darbhanga,Nagaland,Rural,Tier-3,40
+L351,Phusro,Mizoram,Semi-Urban,Tier-2,99
+L352,Hubli–Dharwad,Gujarat,Rural,Tier-3,39
+L353,Gorakhpur,Manipur,Semi-Urban,Tier-2,78
+L354,Danapur,Uttar Pradesh,Urban,Metro,23
+L355,Coimbatore,Manipur,Rural,Tier-3,1
+L356,Bally,Manipur,Semi-Urban,Tier-2,32
+L357,Malda,Sikkim,Rural,Tier-3,77
+L358,Thane,Manipur,Semi-Urban,Tier-2,86
+L359,Panvel,Rajasthan,Rural,Tier-3,62
+L360,Ahmedabad,Jharkhand,Rural,Tier-3,68
+L361,Hyderabad,Goa,Semi-Urban,Tier-2,93
+L362,Chittoor,Punjab,Urban,Metro,31
+L363,Haldia,Rajasthan,Semi-Urban,Tier-2,93
+L364,Nellore,Kerala,Urban,Metro,23
+L365,Guna,Bihar,Rural,Tier-3,72
+L366,Medininagar,Haryana,Rural,Tier-3,26
+L367,Firozabad,Kerala,Urban,Metro,15
+L368,Secunderabad,Maharashtra,Rural,Tier-3,98
+L369,Chandigarh,Uttar Pradesh,Rural,Tier-3,18
+L370,Bhagalpur,Uttarakhand,Rural,Tier-3,89
+L371,Thanjavur,Assam,Urban,Metro,75
+L372,Hospet,West Bengal,Urban,Metro,89
+L373,Nangloi Jat,Arunachal Pradesh,Rural,Tier-3,42
+L374,Nagaon,Jharkhand,Semi-Urban,Tier-2,54
+L375,Bhusawal,Maharashtra,Rural,Tier-3,46
+L376,Dharmavaram,Maharashtra,Urban,Metro,14
+L377,Kota,Telangana,Urban,Metro,60
+L378,Serampore,Odisha,Rural,Tier-3,64
+L379,Nagpur,Jharkhand,Urban,Metro,54
+L380,Bokaro,Arunachal Pradesh,Semi-Urban,Tier-2,26
+L381,Ghaziabad,Assam,Urban,Metro,88
+L382,Mirzapur,Madhya Pradesh,Urban,Metro,30
+L383,Phagwara,Meghalaya,Urban,Metro,8
+L384,Bongaigaon,Tripura,Semi-Urban,Tier-2,100
+L385,Nagpur,Punjab,Urban,Metro,13
+L386,Navi Mumbai,Andhra Pradesh,Rural,Tier-3,76
+L387,Dindigul,Assam,Urban,Metro,8
+L388,Ichalkaranji,Sikkim,Semi-Urban,Tier-2,97
+L389,Berhampore,Andhra Pradesh,Urban,Metro,16
+L390,Naihati,Uttarakhand,Urban,Metro,44
+L391,Nellore,Himachal Pradesh,Rural,Tier-3,86
+L392,Sambhal,Manipur,Urban,Metro,64
+L393,Junagadh,Assam,Semi-Urban,Tier-2,53
+L394,Madanapalle,Sikkim,Semi-Urban,Tier-2,88
+L395,Dhule,Odisha,Semi-Urban,Tier-2,6
+L396,Ghaziabad,West Bengal,Semi-Urban,Tier-2,45
+L397,Navi Mumbai,Manipur,Semi-Urban,Tier-2,66
+L398,Raiganj,Uttar Pradesh,Urban,Metro,93
+L399,Noida,Sikkim,Semi-Urban,Tier-2,69
+L400,Gurgaon,Karnataka,Rural,Tier-3,57
+L401,Udaipur,Maharashtra,Rural,Tier-3,5
+L402,Proddatur,Odisha,Urban,Metro,69
+L403,Jorhat,Tamil Nadu,Rural,Tier-3,87
+L404,Gwalior,Karnataka,Semi-Urban,Tier-2,80
+L405,Bidhannagar,Meghalaya,Urban,Metro,30
+L406,Sri Ganganagar,Goa,Urban,Metro,67
+L407,Panipat,Himachal Pradesh,Urban,Metro,51
+L408,Raipur,Himachal Pradesh,Rural,Tier-3,98
+L409,Jamalpur,Gujarat,Semi-Urban,Tier-2,50
+L410,Agra,Uttarakhand,Rural,Tier-3,32
+L411,Panchkula,Tamil Nadu,Urban,Metro,61
+L412,Hospet,Tripura,Rural,Tier-3,27
+L413,Nashik,Nagaland,Urban,Metro,7
+L414,Ongole,Kerala,Rural,Tier-3,21
+L415,Sirsa,Goa,Urban,Metro,88
+L416,Tadipatri,Himachal Pradesh,Rural,Tier-3,67
+L417,Ahmedabad,West Bengal,Semi-Urban,Tier-2,64
+L418,Tenali,Maharashtra,Semi-Urban,Tier-2,53
+L419,Junagadh,Sikkim,Urban,Metro,75
+L420,Karawal Nagar,Nagaland,Urban,Metro,41
+L421,Kota,Gujarat,Urban,Metro,69
+L422,Ludhiana,Maharashtra,Rural,Tier-3,69
+L423,Ahmedabad,Haryana,Urban,Metro,78
+L424,Malegaon,West Bengal,Urban,Metro,80
+L425,Eluru,Sikkim,Semi-Urban,Tier-2,24
+L426,Eluru,Punjab,Rural,Tier-3,99
+L427,Dhanbad,Karnataka,Semi-Urban,Tier-2,30
+L428,Bharatpur,Manipur,Urban,Metro,42
+L429,Raurkela Industrial Township,Goa,Rural,Tier-3,77
+L430,Chennai,Andhra Pradesh,Rural,Tier-3,53
+L431,Satna,Jharkhand,Urban,Metro,100
+L432,Bhatpara,Mizoram,Rural,Tier-3,30
+L433,Gangtok,Kerala,Rural,Tier-3,2
+L434,Kakinada,West Bengal,Rural,Tier-3,20
+L435,Ahmednagar,Uttar Pradesh,Urban,Metro,85
+L436,Satara,Rajasthan,Rural,Tier-3,87
+L437,Begusarai,Punjab,Urban,Metro,51
+L438,Gangtok,Telangana,Rural,Tier-3,52
+L439,Tadipatri,Himachal Pradesh,Rural,Tier-3,97
+L440,Rohtak,Karnataka,Rural,Tier-3,69
+L441,Jehanabad,Arunachal Pradesh,Semi-Urban,Tier-2,89
+L442,Ozhukarai,Maharashtra,Rural,Tier-3,2
+L443,Sambhal,Manipur,Semi-Urban,Tier-2,31
+L444,Delhi,Manipur,Rural,Tier-3,21
+L445,Arrah,Jharkhand,Rural,Tier-3,9
+L446,Ongole,Uttar Pradesh,Semi-Urban,Tier-2,66
+L447,Udaipur,Goa,Semi-Urban,Tier-2,92
+L448,Bhopal,Uttar Pradesh,Rural,Tier-3,28
+L449,Korba,West Bengal,Semi-Urban,Tier-2,53
+L450,Shahjahanpur,Haryana,Semi-Urban,Tier-2,31
+L451,Thanjavur,Uttarakhand,Rural,Tier-3,27
+L452,Aligarh,Himachal Pradesh,Urban,Metro,89
+L453,Yamunanagar,Uttar Pradesh,Semi-Urban,Tier-2,100
+L454,Shimla,Haryana,Rural,Tier-3,70
+L455,Hapur,Karnataka,Urban,Metro,42
+L456,Giridih,Rajasthan,Urban,Metro,53
+L457,Kumbakonam,Andhra Pradesh,Urban,Metro,45
+L458,Ajmer,Kerala,Semi-Urban,Tier-2,34
+L459,Tirunelveli,Tamil Nadu,Urban,Metro,42
+L460,Khandwa,Bihar,Urban,Metro,82
+L461,Karawal Nagar,Andhra Pradesh,Rural,Tier-3,2
+L462,Chandigarh,Uttarakhand,Urban,Metro,29
+L463,Udupi,Gujarat,Semi-Urban,Tier-2,78
+L464,Dehri,Punjab,Semi-Urban,Tier-2,72
+L465,Panihati,Punjab,Semi-Urban,Tier-2,5
+L466,Karaikudi,Chhattisgarh,Urban,Metro,76
+L467,Bally,Karnataka,Semi-Urban,Tier-2,53
+L468,Jalgaon,Karnataka,Rural,Tier-3,26
+L469,Aurangabad,Nagaland,Semi-Urban,Tier-2,46
+L470,Ambattur,Odisha,Urban,Metro,11
+L471,Fatehpur,Punjab,Urban,Metro,99
+L472,Bally,Bihar,Semi-Urban,Tier-2,96
+L473,Jamnagar,Tamil Nadu,Rural,Tier-3,58
+L474,Mau,Karnataka,Rural,Tier-3,12
+L475,Warangal,Uttar Pradesh,Urban,Metro,3
+L476,Tiruchirappalli,Manipur,Semi-Urban,Tier-2,11
+L477,Dewas,Bihar,Rural,Tier-3,55
+L478,North Dumdum,Nagaland,Semi-Urban,Tier-2,91
+L479,Jalandhar,Haryana,Rural,Tier-3,73
+L480,Tezpur,Nagaland,Rural,Tier-3,22
+L481,Serampore,Himachal Pradesh,Rural,Tier-3,66
+L482,Tiruvottiyur,Goa,Urban,Metro,11
+L483,Nandyal,Himachal Pradesh,Rural,Tier-3,75
+L484,Tumkur,Karnataka,Urban,Metro,97
+L485,Thiruvananthapuram,Tamil Nadu,Rural,Tier-3,16
+L486,Shahjahanpur,Goa,Semi-Urban,Tier-2,53
+L487,Pali,Mizoram,Urban,Metro,57
+L488,Pallavaram,West Bengal,Semi-Urban,Tier-2,64
+L489,Miryalaguda,Tripura,Urban,Metro,77
+L490,Suryapet,Meghalaya,Rural,Tier-3,27
+L491,Udupi,Tripura,Semi-Urban,Tier-2,64
+L492,Muzaffarnagar,Tripura,Rural,Tier-3,25
+L493,Dhanbad,Sikkim,Rural,Tier-3,67
+L494,Secunderabad,Arunachal Pradesh,Urban,Metro,50
+L495,Mehsana,Maharashtra,Semi-Urban,Tier-2,69
+L496,Belgaum,West Bengal,Rural,Tier-3,32
+L497,Mango,Telangana,Urban,Metro,25
+L498,Rajpur Sonarpur,Rajasthan,Urban,Metro,22
+L499,Khandwa,Goa,Semi-Urban,Tier-2,19
+L500,Bhavnagar,Tripura,Semi-Urban,Tier-2,76
+L501,Bardhaman,Goa,Rural,Tier-3,20
+L502,Uluberia,Madhya Pradesh,Rural,Tier-3,43
+L503,Tiruppur,Manipur,Rural,Tier-3,97
+L504,Ghaziabad,Nagaland,Semi-Urban,Tier-2,54
+L505,Mirzapur,Chhattisgarh,Rural,Tier-3,73
+L506,Ratlam,Chhattisgarh,Urban,Metro,34
+L507,Thane,Karnataka,Urban,Metro,49
+L508,Parbhani,Telangana,Rural,Tier-3,76
+L509,Ujjain,Odisha,Rural,Tier-3,13
+L510,Kharagpur,Karnataka,Urban,Metro,85
+L511,Ambala,Andhra Pradesh,Urban,Metro,57
+L512,Jaunpur,Tripura,Urban,Metro,30
+L513,Katihar,Uttarakhand,Semi-Urban,Tier-2,39
+L514,Bathinda,Assam,Rural,Tier-3,79
+L515,Kolhapur,Tamil Nadu,Rural,Tier-3,63
+L516,Srinagar,Karnataka,Urban,Metro,23
+L517,Maheshtala,Assam,Semi-Urban,Tier-2,86
+L518,Karnal,Chhattisgarh,Rural,Tier-3,42
+L519,Vellore,Assam,Semi-Urban,Tier-2,46
+L520,Phagwara,Uttarakhand,Urban,Metro,46
+L521,Agartala,Punjab,Rural,Tier-3,54
+L522,Siwan,Goa,Semi-Urban,Tier-2,15
+L523,Gudivada,Haryana,Rural,Tier-3,18
+L524,Dibrugarh,Mizoram,Urban,Metro,79
+L525,Adoni,Gujarat,Semi-Urban,Tier-2,4
+L526,Guna,Chhattisgarh,Urban,Metro,73
+L527,Panihati,Assam,Semi-Urban,Tier-2,36
+L528,Bahraich,Andhra Pradesh,Urban,Metro,98
+L529,Varanasi,Jharkhand,Rural,Tier-3,44
+L530,Ulhasnagar,Manipur,Urban,Metro,8
+L531,Latur,Uttarakhand,Urban,Metro,39
+L532,Kochi,Sikkim,Semi-Urban,Tier-2,72
+L533,Salem,Manipur,Urban,Metro,28
+L534,Phagwara,Chhattisgarh,Semi-Urban,Tier-2,42
+L535,Morbi,Andhra Pradesh,Rural,Tier-3,62
+L536,Bhatpara,Haryana,Rural,Tier-3,40
+L537,Kurnool,Telangana,Rural,Tier-3,23
+L538,Ballia,Arunachal Pradesh,Rural,Tier-3,1
+L539,Bellary,Gujarat,Rural,Tier-3,89
+L540,Bardhaman,Punjab,Urban,Metro,31
+L541,Ajmer,Andhra Pradesh,Rural,Tier-3,68
+L542,Morbi,Odisha,Rural,Tier-3,61
+L543,Howrah,Maharashtra,Rural,Tier-3,37
+L544,Ulhasnagar,Assam,Semi-Urban,Tier-2,18
+L545,Jodhpur,Rajasthan,Urban,Metro,38
+L546,Latur,Assam,Semi-Urban,Tier-2,36
+L547,Bally,Arunachal Pradesh,Urban,Metro,88
+L548,Ozhukarai,Madhya Pradesh,Rural,Tier-3,13
+L549,Kota,Madhya Pradesh,Semi-Urban,Tier-2,31
+L550,Naihati,Jharkhand,Urban,Metro,89
+L551,Madanapalle,West Bengal,Urban,Metro,43
+L552,Kavali,Goa,Urban,Metro,64
+L553,Gangtok,Maharashtra,Semi-Urban,Tier-2,47
+L554,Bettiah,Karnataka,Urban,Metro,98
+L555,Berhampur,Uttar Pradesh,Urban,Metro,27
+L556,Sasaram,Andhra Pradesh,Urban,Metro,73
+L557,Kulti,Punjab,Semi-Urban,Tier-2,56
+L558,Sonipat,Gujarat,Semi-Urban,Tier-2,45
+L559,Warangal,Manipur,Rural,Tier-3,61
+L560,Hubli–Dharwad,Assam,Rural,Tier-3,54
+L561,Mau,Haryana,Urban,Metro,73
+L562,Farrukhabad,Assam,Urban,Metro,3
+L563,Durgapur,Meghalaya,Urban,Metro,81
+L564,Chapra,Gujarat,Semi-Urban,Tier-2,5
+L565,Kochi,Rajasthan,Semi-Urban,Tier-2,37
+L566,Eluru,Rajasthan,Semi-Urban,Tier-2,92
+L567,Madhyamgram,Maharashtra,Rural,Tier-3,79
+L568,Secunderabad,Manipur,Rural,Tier-3,50
+L569,Rewa,Telangana,Urban,Metro,1
+L570,Varanasi,Assam,Urban,Metro,39
+L571,Kumbakonam,Tamil Nadu,Rural,Tier-3,21
+L572,Sasaram,Meghalaya,Urban,Metro,44
+L573,Jehanabad,Gujarat,Semi-Urban,Tier-2,18
+L574,Nagercoil,Madhya Pradesh,Urban,Metro,67
+L575,Panchkula,West Bengal,Semi-Urban,Tier-2,82
+L576,Panchkula,Meghalaya,Rural,Tier-3,55
+L577,Ahmednagar,Sikkim,Rural,Tier-3,31
+L578,Shahjahanpur,Karnataka,Rural,Tier-3,25
+L579,Chandigarh,Mizoram,Urban,Metro,58
+L580,Sirsa,Goa,Urban,Metro,63
+L581,Rewa,Arunachal Pradesh,Urban,Metro,62
+L582,Berhampur,Bihar,Urban,Metro,67
+L583,Surat,Andhra Pradesh,Rural,Tier-3,92
+L584,Chapra,Jharkhand,Rural,Tier-3,72
+L585,Mau,Andhra Pradesh,Urban,Metro,57
+L586,Chandrapur,Goa,Rural,Tier-3,81
+L587,Ballia,Haryana,Rural,Tier-3,84
+L588,Ongole,Assam,Rural,Tier-3,67
+L589,Ludhiana,Gujarat,Rural,Tier-3,92
+L590,Hindupur,Meghalaya,Rural,Tier-3,10
+L591,Bhilwara,Meghalaya,Rural,Tier-3,13
+L592,Bidhannagar,Uttarakhand,Rural,Tier-3,67
+L593,Agartala,Maharashtra,Semi-Urban,Tier-2,88
+L594,Ramagundam,Punjab,Semi-Urban,Tier-2,20
+L595,Dharmavaram,Karnataka,Urban,Metro,79
+L596,Purnia,Kerala,Rural,Tier-3,76
+L597,Uluberia,Punjab,Urban,Metro,28
+L598,Pallavaram,Mizoram,Rural,Tier-3,13
+L599,Eluru,Madhya Pradesh,Urban,Metro,13
+L600,Jaipur,Meghalaya,Semi-Urban,Tier-2,82

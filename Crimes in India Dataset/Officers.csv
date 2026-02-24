@@ -1,0 +1,601 @@
+Officer_ID,Name,Rank,Station,State,Experience_Level,Cases_Assigned
+O001,Purab Swaminathan,DCP,Aligarh PS,Punjab,4,45
+O002,Onkar Sura,ACP,Alappuzha PS,Nagaland,3,9
+O003,Prisha Bedi,SI,Giridih PS,Bihar,1,46
+O004,Prerak Desai,Inspector,Udupi PS,Arunachal Pradesh,2,5
+O005,Purab Suresh,Inspector,Patna PS,Uttarakhand,2,2
+O006,Dishani Agrawal,SP,Muzaffarpur PS,Tripura,5,37
+O007,Ivan Tella,SI,Nashik PS,Karnataka,1,10
+O008,Reyansh Varkey,ACP,Aurangabad PS,Nagaland,3,22
+O009,Aarush Boase,SI,Phagwara PS,Haryana,1,5
+O010,Yuvraj  Kohli,Inspector,Ambattur PS,Meghalaya,2,41
+O011,Ivana Rao,Inspector,Bettiah PS,Odisha,2,6
+O012,Arnav Dhawan,SI,Bhiwani PS,Uttarakhand,1,45
+O013,Ivana Chana,DCP,Udaipur PS,Punjab,4,38
+O014,Ivana Mangat,DCP,Tadipatri PS,Nagaland,4,21
+O015,Oorja Kaul,SP,Rohtak PS,Tamil Nadu,5,0
+O016,Vanya Sinha,ACP,Srikakulam PS,Sikkim,3,21
+O017,Anya Sarraf,SP,Bilaspur PS,Telangana,5,3
+O018,Aradhya Khatri,ACP,Bhusawal PS,Goa,3,19
+O019,Rhea Bal,DCP,Deoghar PS,Assam,4,26
+O020,Elakshi Sura,SI,Nagpur PS,Assam,1,39
+O021,Samaira Rout,SP,Karnal PS,Jharkhand,5,21
+O022,Mishti Soni,Inspector,Motihari PS,Rajasthan,2,17
+O023,Diya Dada,SI,Bhind PS,Goa,1,22
+O024,Tarini Chokshi,SP,Latur PS,Odisha,5,47
+O025,Anya Bir,Inspector,Kolkata PS,Arunachal Pradesh,2,5
+O026,Prerak Bhagat,DCP,Khandwa PS,Madhya Pradesh,4,47
+O027,Amira Anand,SP,Kakinada PS,Gujarat,5,23
+O028,Reyansh Buch,DCP,Durgapur PS,Mizoram,4,30
+O029,Anika Badal,ACP,Hubli–Dharwad PS,Mizoram,3,7
+O030,Mishti Mander,DCP,Satara PS,Himachal Pradesh,4,39
+O031,Kashvi Sankaran,ACP,Ratlam PS,Odisha,3,41
+O032,Yakshit Dhingra,SP,Phusro PS,Tamil Nadu,5,45
+O033,Parinaaz Malhotra,SP,Mysore PS,Mizoram,5,1
+O034,Manjari Date,SI,Etawah PS,Nagaland,1,38
+O035,Purab Tak,SI,Delhi PS,Andhra Pradesh,1,6
+O036,Vanya Edwin,ACP,Durg PS,Assam,3,1
+O037,Indranil D’Alia,DCP,Panipat PS,Himachal Pradesh,4,31
+O038,Diya Raja,ACP,Coimbatore PS,Haryana,3,34
+O039,Shalv Divan,ACP,Eluru PS,Rajasthan,3,27
+O040,Biju Ravel,SP,Ghaziabad PS,Karnataka,5,9
+O041,Khushi Sampath,Inspector,Parbhani PS,Goa,2,45
+O042,Biju Rajagopalan,Inspector,Motihari PS,Odisha,2,4
+O043,Tejas Ramesh,DCP,Bhopal PS,Chhattisgarh,4,42
+O044,Advik Dhar,DCP,Mirzapur PS,Chhattisgarh,4,20
+O045,Bhamini Bhasin,ACP,Anantapur PS,Punjab,3,38
+O046,Chirag Sethi,ACP,Kanpur PS,Odisha,3,46
+O047,Vidur Soman,Inspector,Farrukhabad PS,Gujarat,2,7
+O048,Baiju Kapadia,SP,Sasaram PS,Odisha,5,28
+O049,Advika Salvi,DCP,Udupi PS,Goa,4,32
+O050,Vivaan Raju,DCP,Imphal PS,Manipur,4,1
+O051,Ela Rege,Inspector,Bidhannagar PS,Arunachal Pradesh,2,36
+O052,Sumer Kulkarni,Inspector,Bhilwara PS,Meghalaya,2,31
+O053,Yuvraj  Bajwa,SP,Shivpuri PS,Meghalaya,5,34
+O054,Riya Kar,DCP,Ichalkaranji PS,Sikkim,4,35
+O055,Vardaniya Sarma,SI,Hazaribagh PS,Arunachal Pradesh,1,45
+O056,Stuvan Dyal,ACP,Bokaro PS,Jharkhand,3,50
+O057,Akarsh Gade,ACP,Haldia PS,Maharashtra,3,5
+O058,Dhanuk Kibe,DCP,Mumbai PS,Bihar,4,28
+O059,Advika Chad,ACP,Jaipur PS,Madhya Pradesh,3,24
+O060,Vaibhav Dubey,SI,Rajkot PS,Himachal Pradesh,1,49
+O061,Miraya Malhotra,DCP,Sikar PS,Manipur,4,28
+O062,Ehsaan Loke,ACP,Baranagar PS,Manipur,3,18
+O063,Jivin Goyal,Inspector,Haridwar PS,Goa,2,37
+O064,Nitara Manne,ACP,Bhind PS,Uttar Pradesh,3,32
+O065,Abram Biswas,DCP,Dewas PS,Chhattisgarh,4,27
+O066,Vardaniya Walla,ACP,Vijayanagaram PS,Bihar,3,9
+O067,Prisha Din,DCP,Mirzapur PS,Mizoram,4,9
+O068,Aarna Yadav,ACP,Warangal PS,Sikkim,3,31
+O069,Indrans Sood,Inspector,Nandyal PS,Gujarat,2,36
+O070,Kavya Choudhury,SP,Baranagar PS,Rajasthan,5,30
+O071,Pari Batta,SI,Katihar PS,Jharkhand,1,21
+O072,Lakshit Sastry,SI,Rajahmundry PS,Haryana,1,25
+O073,Romil Jain,ACP,Erode PS,Maharashtra,3,18
+O074,Amani Sarkar,SP,Medininagar PS,Haryana,5,9
+O075,Ivana Datta,Inspector,Kurnool PS,Uttarakhand,2,42
+O076,Trisha Chana,ACP,Agartala PS,Arunachal Pradesh,3,41
+O077,Fateh Dubey,Inspector,Sri Ganganagar PS,West Bengal,2,12
+O078,Ela Shukla,Inspector,Kurnool PS,Arunachal Pradesh,2,44
+O079,Elakshi Dar,DCP,Anantapuram PS,Odisha,4,14
+O080,Yuvraj  Chadha,ACP,Suryapet PS,Uttar Pradesh,3,9
+O081,Jayesh Chhabra,ACP,Gulbarga PS,Kerala,3,42
+O082,Divij Banerjee,SI,Rewa PS,Odisha,1,40
+O083,Pihu Sodhi,Inspector,Guna PS,Assam,2,24
+O084,Zara Dutt,SP,Faridabad PS,Chhattisgarh,5,47
+O085,Vihaan Swaminathan,ACP,Kulti PS,Meghalaya,3,31
+O086,Vedika Kannan,SP,Gandhinagar PS,Arunachal Pradesh,5,1
+O087,Kismat Mammen,SI,Ambarnath PS,Gujarat,1,37
+O088,Azad Luthra,SP,Kollam PS,Madhya Pradesh,5,25
+O089,Adira Kunda,SI,Morena PS,Punjab,1,27
+O090,Dishani Devan,SI,Thrissur PS,Bihar,1,22
+O091,Tanya Ramachandran,DCP,Gwalior PS,Bihar,4,33
+O092,Eshani Sood,DCP,Tiruchirappalli PS,Mizoram,4,25
+O093,Aarna Vasa,Inspector,Nangloi Jat PS,Jharkhand,2,19
+O094,Jhanvi Kannan,Inspector,Karaikudi PS,Rajasthan,2,21
+O095,Tushar Sachdeva,Inspector,Chittoor PS,Chhattisgarh,2,15
+O096,Aradhya Bhavsar,DCP,Bhilwara PS,Tripura,4,44
+O097,Tiya Thaman,ACP,Agartala PS,Andhra Pradesh,3,25
+O098,Farhan Dani,SI,Ghaziabad PS,Haryana,1,11
+O099,Kanav Ramaswamy,ACP,Mau PS,Punjab,3,36
+O100,Nehmat Chadha,DCP,Srinagar PS,Meghalaya,4,14
+O101,Renee Ray,SP,Ballia PS,Sikkim,5,21
+O102,Ishita Basak,SI,Munger PS,Mizoram,1,28
+O103,Misha Agarwal,DCP,Vadodara PS,Karnataka,4,16
+O104,Gatik Bhatt,Inspector,Silchar PS,Sikkim,2,15
+O105,Neelofar Gulati,SI,Tirunelveli PS,Jharkhand,1,26
+O106,Krish Chakraborty,DCP,Haldia PS,Sikkim,4,14
+O107,Nirvi Aggarwal,DCP,Baranagar PS,Goa,4,8
+O108,Arhaan Bhatnagar,DCP,Secunderabad PS,Mizoram,4,8
+O109,Kavya Ravel,Inspector,Guntakal PS,Odisha,2,4
+O110,Romil Rout,DCP,Rampur PS,Jharkhand,4,30
+O111,Shray Sandal,SP,Tezpur PS,Maharashtra,5,26
+O112,Samiha Seshadri,Inspector,Burhanpur PS,Rajasthan,2,40
+O113,Dhruv Rastogi,DCP,Purnia PS,Jharkhand,4,36
+O114,Kiaan Chaudry,SP,Bhalswa Jahangir Pur PS,Meghalaya,5,39
+O115,Dhruv Gill,ACP,Srikakulam PS,Himachal Pradesh,3,5
+O116,Rati Hora,SI,Firozabad PS,Rajasthan,1,37
+O117,Renee Shenoy,ACP,Dehradun PS,Chhattisgarh,3,5
+O118,Yasmin Sen,SP,Danapur PS,Odisha,5,15
+O119,Samaira Ghosh,SI,Kulti PS,Meghalaya,1,16
+O120,Indranil Sandal,DCP,Amaravati PS,Kerala,4,47
+O121,Jiya Dara,SP,Sambhal PS,Sikkim,5,31
+O122,Romil Handa,DCP,Panihati PS,Uttarakhand,4,15
+O123,Kiaan Ganesan,DCP,Giridih PS,Meghalaya,4,17
+O124,Zaina Gandhi,ACP,Sonipat PS,Assam,3,26
+O125,Romil Din,SP,Naihati PS,Tamil Nadu,5,18
+O126,Jayan Devi,ACP,Surat PS,Nagaland,3,28
+O127,Kashvi Aggarwal,Inspector,Bulandshahr PS,Meghalaya,2,22
+O128,Neysa Arya,SI,Serampore PS,Sikkim,1,34
+O129,Anahita Gour,SP,Ichalkaranji PS,Haryana,5,36
+O130,Ehsaan Kapadia,SP,Kanpur PS,Kerala,5,18
+O131,Tejas Rattan,DCP,Tiruppur PS,Meghalaya,4,50
+O132,Taimur Loyal,Inspector,Jalgaon PS,Andhra Pradesh,2,4
+O133,Zeeshan Amble,ACP,Jamnagar PS,Uttarakhand,3,18
+O134,Shayak Vohra,ACP,Kishanganj PS,Odisha,3,48
+O135,Dharmajan Bhatt,ACP,Baranagar PS,Chhattisgarh,3,18
+O136,Aarna Dewan,SI,Gangtok PS,Assam,1,17
+O137,Raunak Suri,Inspector,Bhind PS,Haryana,2,28
+O138,Shanaya Biswas,SP,Malda PS,Gujarat,5,16
+O139,Farhan Ramachandran,DCP,Latur PS,Haryana,4,6
+O140,Raunak Batta,ACP,Bhusawal PS,Meghalaya,3,22
+O141,Arnav Bhavsar,SP,Ramgarh PS,Meghalaya,5,17
+O142,Keya Venkataraman,SP,Aurangabad PS,Karnataka,5,3
+O143,Adira Ratta,DCP,Bardhaman PS,Meghalaya,4,39
+O144,Ehsaan Desai,Inspector,Ulhasnagar PS,Gujarat,2,26
+O145,Aarush Sarkar,ACP,Kalyan-Dombivli PS,Andhra Pradesh,3,2
+O146,Dhanuk Goel,ACP,Sasaram PS,Madhya Pradesh,3,24
+O147,Jayan Soman,Inspector,Tiruvottiyur PS,Meghalaya,2,50
+O148,Zeeshan Yohannan,Inspector,Sambhal PS,Jharkhand,2,24
+O149,Pihu Kadakia,ACP,Patna PS,Tripura,3,46
+O150,Armaan Thaker,ACP,Fatehpur PS,Haryana,3,49
+O151,Abram Hayer,SP,Navi Mumbai PS,Uttarakhand,5,47
+O152,Elakshi Kari,SI,Navi Mumbai PS,Punjab,1,14
+O153,Samar Khalsa,ACP,Mumbai PS,Uttarakhand,3,3
+O154,Tejas Basak,Inspector,Allahabad PS,Uttar Pradesh,2,47
+O155,Indranil Kala,SP,Raichur PS,Uttar Pradesh,5,42
+O156,Lakshit Sachar,DCP,Thoothukudi PS,Kerala,4,40
+O157,Anahi Kurian,ACP,Sambhal PS,Karnataka,3,33
+O158,Vidur Manne,Inspector,Saharsa PS,Arunachal Pradesh,2,0
+O159,Biju Bera,SP,Mumbai PS,Telangana,5,24
+O160,Riaan Bhalla,DCP,Kota PS,Maharashtra,4,49
+O161,Mohanlal Date,SP,Etawah PS,Uttar Pradesh,5,14
+O162,Arhaan Sachar,SI,Ratlam PS,Odisha,1,41
+O163,Abram Varghese,SI,Phusro PS,Odisha,1,37
+O164,Chirag Sood,DCP,Sikar PS,Meghalaya,4,48
+O165,Ritvik Garde,SP,Ichalkaranji PS,Kerala,5,4
+O166,Bhamini Mall,ACP,Pali PS,Madhya Pradesh,3,21
+O167,Akarsh Bedi,SI,Amravati PS,West Bengal,1,18
+O168,Mamooty Lal,ACP,Pondicherry PS,Karnataka,3,5
+O169,Sana Thakkar,ACP,Darbhanga PS,Kerala,3,28
+O170,Zoya Shetty,DCP,Ramgarh PS,Meghalaya,4,28
+O171,Miraya Badami,Inspector,Ghaziabad PS,Meghalaya,2,42
+O172,Vardaniya Sandal,SI,Ichalkaranji PS,Mizoram,1,41
+O173,Madhav Luthra,DCP,Sikar PS,Madhya Pradesh,4,44
+O174,Zoya Talwar,Inspector,Patna PS,Kerala,2,5
+O175,Mishti Balakrishnan,SP,Sultan Pur Majra PS,Jharkhand,5,26
+O176,Anay Doctor,SP,Bally PS,Sikkim,5,26
+O177,Eshani Brar,DCP,Chapra PS,Assam,4,36
+O178,Rasha Agarwal,DCP,Howrah PS,West Bengal,4,11
+O179,Misha Ramanathan,Inspector,Kollam PS,Manipur,2,1
+O180,Piya Khalsa,SP,Unnao PS,Andhra Pradesh,5,49
+O181,Heer Dara,DCP,Mangalore PS,Assam,4,24
+O182,Darshit Bhardwaj,SI,Bidar PS,West Bengal,1,47
+O183,Anika Gala,DCP,Mathura PS,West Bengal,4,35
+O184,Kanav Ramaswamy,DCP,Bhiwani PS,Gujarat,4,25
+O185,Kimaya Vora,DCP,Bangalore PS,Manipur,4,20
+O186,Keya Sampath,ACP,Anand PS,Rajasthan,3,36
+O187,Nehmat Banik,DCP,Giridih PS,Rajasthan,4,39
+O188,Nehmat Thaman,DCP,Bhimavaram PS,West Bengal,4,45
+O189,Yuvaan Contractor,SI,Sultan Pur Majra PS,Uttar Pradesh,1,46
+O190,Taimur Anand,SI,Visakhapatnam PS,West Bengal,1,19
+O191,Neysa Krish,SP,Kollam PS,Haryana,5,43
+O192,Tara Sankar,Inspector,Madurai PS,Uttarakhand,2,46
+O193,Nirvaan Kapoor,SI,Korba PS,Goa,1,46
+O194,Adah Mani,SP,Howrah PS,Nagaland,5,44
+O195,Drishya Gill,SI,Agra PS,Manipur,1,45
+O196,Faiyaz Chhabra,ACP,Uluberia PS,Tripura,3,2
+O197,Stuvan Kapoor,Inspector,Rajkot PS,Arunachal Pradesh,2,42
+O198,Yuvraj  Dar,DCP,Raurkela Industrial Township PS,Uttarakhand,4,20
+O199,Kashvi Bhatti,DCP,Latur PS,Maharashtra,4,15
+O200,Kavya Tak,DCP,Pimpri-Chinchwad PS,Tripura,4,26
+O201,Indranil Dash,Inspector,Raiganj PS,Manipur,2,25
+O202,Himmat Chadha,SI,Jaunpur PS,Goa,1,0
+O203,Aarna Majumdar,SI,Satna PS,Kerala,1,2
+O204,Shaan Borde,ACP,Sambalpur PS,Mizoram,3,15
+O205,Madhup Gandhi,ACP,Tumkur PS,Telangana,3,38
+O206,Rohan Balan,SP,Miryalaguda PS,Assam,5,0
+O207,Mahika Dua,DCP,Avadi PS,Himachal Pradesh,4,41
+O208,Samiha Chandra,SP,Navi Mumbai PS,Mizoram,5,46
+O209,Amani Salvi,SI,Durgapur PS,Uttar Pradesh,1,38
+O210,Chirag Verma,ACP,Ichalkaranji PS,Maharashtra,3,12
+O211,Tiya Ravi,Inspector,Kirari Suleman Nagar PS,Manipur,2,23
+O212,Oorja Sami,SP,Bhusawal PS,Madhya Pradesh,5,46
+O213,Pihu Rajan,SI,Baranagar PS,Goa,1,47
+O214,Shaan Barad,SI,Kishanganj PS,Gujarat,1,26
+O215,Uthkarsh Kala,SP,Bareilly PS,Kerala,5,15
+O216,Vihaan Kapur,ACP,Kottayam PS,Karnataka,3,20
+O217,Adira Dixit,SP,Thoothukudi PS,Karnataka,5,42
+O218,Anya Deep,SP,Rewa PS,Assam,5,41
+O219,Badal Subramanian,Inspector,Faridabad PS,Mizoram,2,9
+O220,Indranil Das,Inspector,Ozhukarai PS,Tamil Nadu,2,42
+O221,Rhea Kamdar,DCP,Patiala PS,Karnataka,4,31
+O222,Arhaan Divan,ACP,Vijayawada PS,Uttarakhand,3,9
+O223,Gatik Lalla,SI,Dindigul PS,Goa,1,18
+O224,Kimaya Jhaveri,SP,Morena PS,Meghalaya,5,0
+O225,Himmat Gade,SP,Nanded PS,West Bengal,5,21
+O226,Khushi Vaidya,ACP,Latur PS,Tripura,3,11
+O227,Nakul Kar,DCP,Kirari Suleman Nagar PS,Mizoram,4,32
+O228,Sahil Dhar,SP,Buxar PS,Nagaland,5,31
+O229,Charvi Sule,ACP,Dehradun PS,Jharkhand,3,25
+O230,Hrishita Sinha,ACP,Sonipat PS,Chhattisgarh,3,1
+O231,Khushi Ray,DCP,Cuttack PS,Andhra Pradesh,4,8
+O232,Neysa Bandi,DCP,Berhampore PS,Uttarakhand,4,14
+O233,Samarth Wadhwa,SP,Guntur PS,Manipur,5,32
+O234,Samiha Srivastava,DCP,Bihar Sharif PS,Uttar Pradesh,4,39
+O235,Misha Din,DCP,Pallavaram PS,Manipur,4,27
+O236,Aayush Varma,SI,Ballia PS,Nagaland,1,46
+O237,Vanya Dutta,DCP,Bardhaman PS,Manipur,4,30
+O238,Alisha Karnik,SI,Ludhiana PS,Haryana,1,47
+O239,Indrajit Cheema,Inspector,Ludhiana PS,Karnataka,2,5
+O240,Riaan Walia,ACP,Sagar PS,Bihar,3,32
+O241,Farhan Shetty,ACP,Bidar PS,Meghalaya,3,45
+O242,Farhan Butala,SI,Parbhani PS,Nagaland,1,22
+O243,Kartik Ramachandran,DCP,Amroha PS,Haryana,4,48
+O244,Jivika Doshi,Inspector,Chennai PS,Sikkim,2,49
+O245,Taran Varghese,DCP,Ahmedabad PS,Manipur,4,46
+O246,Veer Iyengar,SP,Patna PS,Madhya Pradesh,5,44
+O247,Urvi Sura,ACP,Hajipur PS,Karnataka,3,6
+O248,Parinaaz Sabharwal,SI,Imphal PS,Nagaland,1,49
+O249,Piya Kamdar,DCP,Korba PS,Goa,4,3
+O250,Nishith Bhandari,SI,Jaipur PS,Tripura,1,36
+O251,Yuvaan Magar,SP,Gandhinagar PS,Meghalaya,5,46
+O252,Mohanlal Wali,SI,Jabalpur PS,Tamil Nadu,1,29
+O253,Nirvi Johal,ACP,Purnia PS,Gujarat,3,34
+O254,Krish Sachar,SI,Amravati PS,Kerala,1,48
+O255,Dhanush Rao,ACP,Bangalore PS,Arunachal Pradesh,3,41
+O256,Shamik Ganguly,DCP,Jamalpur PS,Bihar,4,46
+O257,Khushi Choudhry,Inspector,Vellore PS,Maharashtra,2,1
+O258,Hiran Agate,SI,Chandrapur PS,Uttar Pradesh,1,7
+O259,Shray Dalal,SI,Dharmavaram PS,Uttar Pradesh,1,46
+O260,Advika Mannan,SP,Tiruppur PS,Telangana,5,13
+O261,Tarini Subramaniam,SP,Bhavnagar PS,Chhattisgarh,5,18
+O262,Armaan Chauhan,ACP,Guntakal PS,Tripura,3,47
+O263,Mannat Mandal,ACP,Ghaziabad PS,Meghalaya,3,10
+O264,Ira Gala,SP,Akola PS,Telangana,5,22
+O265,Lavanya Saran,SI,Noida PS,Andhra Pradesh,1,3
+O266,Bhavin Sachar,SI,Dhule PS,Sikkim,1,18
+O267,Ishaan Aggarwal,SP,Amritsar PS,Meghalaya,5,12
+O268,Amani Swamy,DCP,Kamarhati PS,Tamil Nadu,4,45
+O269,Priyansh Cherian,SI,Raurkela Industrial Township PS,Manipur,1,22
+O270,Mahika Das,SI,Mango PS,Odisha,1,23
+O271,Divit Gulati,ACP,Dharmavaram PS,Uttar Pradesh,3,41
+O272,Bhamini Gaba,Inspector,Panipat PS,Himachal Pradesh,2,30
+O273,Kartik Dugar,SP,Tadepalligudem PS,Bihar,5,45
+O274,Reyansh Issac,SI,South Dumdum PS,Uttar Pradesh,1,16
+O275,Nehmat Ramaswamy,SI,Satara PS,Punjab,1,39
+O276,Samiha Sekhon,DCP,Hospet PS,Nagaland,4,6
+O277,Chirag Date,Inspector,Tezpur PS,West Bengal,2,24
+O278,Azad Kakar,DCP,Anantapur PS,Karnataka,4,48
+O279,Anya Sandal,ACP,Berhampur PS,Assam,3,4
+O280,Amani Kala,SP,Salem PS,Goa,5,1
+O281,Eva Tara,ACP,Kumbakonam PS,Himachal Pradesh,3,9
+O282,Adah Chauhan,Inspector,Cuttack PS,Chhattisgarh,2,2
+O283,Kartik Hegde,SI,Tadipatri PS,Goa,1,11
+O284,Parinaaz Arora,ACP,Allahabad PS,Jharkhand,3,4
+O285,Neelofar Desai,DCP,Chandigarh PS,Meghalaya,4,17
+O286,Charvi Srinivasan,ACP,Kamarhati PS,Haryana,3,8
+O287,Ahana  Reddy,DCP,Kalyan-Dombivli PS,Uttar Pradesh,4,1
+O288,Vidur Sangha,DCP,Bongaigaon PS,Tamil Nadu,4,30
+O289,Miraan Kant,Inspector,Mehsana PS,Maharashtra,2,41
+O290,Mahika Ahluwalia,SP,Ambattur PS,Andhra Pradesh,5,11
+O291,Urvi Bedi,DCP,Surat PS,Mizoram,4,10
+O292,Mehul Goda,SI,Gandhinagar PS,Sikkim,1,31
+O293,Krish Kara,SI,Bijapur PS,West Bengal,1,32
+O294,Lavanya Kashyap,ACP,Barasat PS,Arunachal Pradesh,3,10
+O295,Oorja Lal,DCP,Bahraich PS,Tripura,4,7
+O296,Riya Sundaram,SP,Saharsa PS,Odisha,5,19
+O297,Ayesha Ratta,SP,Shahjahanpur PS,Rajasthan,5,30
+O298,Yashvi Aurora,ACP,Indore PS,Sikkim,3,44
+O299,Rasha Dhar,DCP,Sambhal PS,Rajasthan,4,34
+O300,Nitya Ramesh,ACP,Giridih PS,Bihar,3,1
+O301,Tanya Chacko,SI,Faridabad PS,Bihar,1,41
+O302,Ranbir Hegde,Inspector,Darbhanga PS,Sikkim,2,5
+O303,Arhaan Bumb,Inspector,Indore PS,Jharkhand,2,38
+O304,Divit Krish,DCP,Ludhiana PS,Haryana,4,8
+O305,Samar Badami,SI,Jorhat PS,Chhattisgarh,1,29
+O306,Manjari Kapadia,SP,Bhalswa Jahangir Pur PS,Tamil Nadu,5,30
+O307,Advika Goda,Inspector,Bangalore PS,Tamil Nadu,2,18
+O308,Sana Dugal,Inspector,Mangalore PS,West Bengal,2,35
+O309,Aaryahi Walia,SI,Ghaziabad PS,Bihar,1,15
+O310,Khushi Vyas,DCP,Singrauli PS,Gujarat,4,17
+O311,Oorja Kakar,SI,Ahmedabad PS,Odisha,1,4
+O312,Gokul Joshi,SI,Sambalpur PS,Meghalaya,1,20
+O313,Aayush Choudhry,ACP,Khora  PS,Kerala,3,12
+O314,Aaina Lala,SI,Sambalpur PS,Tamil Nadu,1,17
+O315,Manjari Talwar,ACP,Ghaziabad PS,Meghalaya,3,13
+O316,Umang Khatri,DCP,Raurkela Industrial Township PS,Goa,4,35
+O317,Samarth Das,DCP,Kulti PS,Kerala,4,49
+O318,Jivin Rana,DCP,Nanded PS,Kerala,4,28
+O319,Zaina Khare,SI,Allahabad PS,Rajasthan,1,24
+O320,Aarna Sen,SP,Gangtok PS,Tripura,5,17
+O321,Jivin Ahuja,Inspector,Khora  PS,Assam,2,41
+O322,Aniruddh Borde,Inspector,Ambarnath PS,Tripura,2,22
+O323,Fateh Chaudry,SP,Ozhukarai PS,Assam,5,45
+O324,Amani Vala,SI,Guna PS,Odisha,1,18
+O325,Romil Tata,Inspector,Visakhapatnam PS,Tripura,2,33
+O326,Indranil Agrawal,DCP,Cuttack PS,Mizoram,4,27
+O327,Ritvik Gour,ACP,Katni PS,Tripura,3,30
+O328,Kavya Ramesh,DCP,Sikar PS,Assam,4,15
+O329,Nitya Krishnan,DCP,Karnal PS,Rajasthan,4,15
+O330,Shayak Arora,SI,Rajahmundry PS,Tamil Nadu,1,29
+O331,Baiju Walla,SI,Sambalpur PS,Odisha,1,43
+O332,Pihu Shanker,ACP,Ludhiana PS,Bihar,3,14
+O333,Siya Lal,Inspector,Nagaon PS,Odisha,2,12
+O334,Manikya Kuruvilla,Inspector,Hyderabad PS,Rajasthan,2,12
+O335,Misha Kunda,ACP,Tadepalligudem PS,Assam,3,40
+O336,Kiaan Sarin,DCP,Junagadh PS,Uttar Pradesh,4,22
+O337,Shlok Chaudry,Inspector,Morena PS,Arunachal Pradesh,2,1
+O338,Elakshi Taneja,DCP,Gandhidham PS,Punjab,4,33
+O339,Alisha Rout,SI,Bhilai PS,Kerala,1,27
+O340,Advik Manda,SI,Junagadh PS,Uttarakhand,1,25
+O341,Dharmajan Bhattacharyya,DCP,Delhi PS,Gujarat,4,8
+O342,Kashvi Kalla,SI,Chittoor PS,Haryana,1,26
+O343,Lagan Kanda,SI,South Dumdum PS,Uttar Pradesh,1,38
+O344,Purab Krishnamurthy,SP,Hazaribagh PS,Uttarakhand,5,16
+O345,Jayant Balasubramanian,SP,Tinsukia PS,Tripura,5,27
+O346,Yashvi Chopra,DCP,Kavali PS,Mizoram,4,45
+O347,Navya Sankar,ACP,Kolkata PS,Andhra Pradesh,3,3
+O348,Kabir Gill,SP,Mau PS,Bihar,5,20
+O349,Manjari Rege,ACP,Sambalpur PS,Bihar,3,1
+O350,Kimaya Shanker,ACP,Ajmer PS,West Bengal,3,22
+O351,Nayantara Choudhry,SI,Warangal PS,Andhra Pradesh,1,37
+O352,Raunak Chakrabarti,DCP,Faridabad PS,Chhattisgarh,4,42
+O353,Amira Biswas,ACP,Silchar PS,Andhra Pradesh,3,4
+O354,Miraan Lala,ACP,Bihar Sharif PS,Mizoram,3,47
+O355,Nitya Kara,DCP,Raichur PS,Telangana,4,48
+O356,Seher Jayaraman,SI,Navi Mumbai PS,Meghalaya,1,25
+O357,Navya Bhalla,DCP,Deoghar PS,Mizoram,4,41
+O358,Saanvi Chokshi,SP,Proddatur PS,Haryana,5,12
+O359,Saanvi Bains,DCP,Kulti PS,West Bengal,4,1
+O360,Samaira Shenoy,Inspector,Mysore PS,Uttarakhand,2,7
+O361,Myra Madan,DCP,Tinsukia PS,Bihar,4,50
+O362,Anvi Uppal,SI,Raebareli PS,Karnataka,1,18
+O363,Advika Deep,SP,Burhanpur PS,Sikkim,5,5
+O364,Samar Kapur,SI,Dehradun PS,Tamil Nadu,1,30
+O365,Kashvi Sankar,Inspector,Tadepalligudem PS,Sikkim,2,41
+O366,Dhanush Bala,DCP,Faridabad PS,Bihar,4,18
+O367,Nakul Varkey,Inspector,Bhusawal PS,West Bengal,2,45
+O368,Amani Comar,DCP,Dibrugarh PS,Haryana,4,3
+O369,Pihu Master,DCP,Haldia PS,Punjab,4,22
+O370,Yakshit Lal,SI,Aurangabad PS,Odisha,1,46
+O371,Divij Thaman,Inspector,Sultan Pur Majra PS,Tamil Nadu,2,29
+O372,Ira Gala,Inspector,Tumkur PS,Jharkhand,2,25
+O373,Anahi Wable,SP,Baranagar PS,Kerala,5,48
+O374,Rania Bandi,ACP,Dhule PS,Uttar Pradesh,3,34
+O375,Ishita Mandal,DCP,Rohtak PS,Madhya Pradesh,4,38
+O376,Dharmajan Ganesh,Inspector,Raiganj PS,Andhra Pradesh,2,40
+O377,Bhamini Jha,DCP,Noida PS,Kerala,4,4
+O378,Elakshi Batta,Inspector,Ambarnath PS,Madhya Pradesh,2,6
+O379,Lagan Bahri,ACP,Rewa PS,Telangana,3,41
+O380,Devansh Kata,SP,Raipur PS,Karnataka,5,22
+O381,Ivan Soman,SP,Coimbatore PS,Mizoram,5,22
+O382,Dishani Garde,ACP,Darbhanga PS,Kerala,3,41
+O383,Nehmat Gokhale,DCP,Serampore PS,Punjab,4,3
+O384,Anay Bava,Inspector,Kishanganj PS,Tamil Nadu,2,11
+O385,Ira Bhatnagar,DCP,Bahraich PS,Karnataka,4,41
+O386,Stuvan Dara,Inspector,Dehri PS,Madhya Pradesh,2,28
+O387,Advika Gaba,SP,Bhilai PS,Rajasthan,5,3
+O388,Miraya Badal,SP,Bidhannagar PS,Sikkim,5,32
+O389,Renee Tak,SI,Bhubaneswar PS,Odisha,1,10
+O390,Raunak Sha,SP,Warangal PS,Tripura,5,32
+O391,Shalv Kakar,ACP,Kakinada PS,Tripura,3,6
+O392,Gokul Joshi,DCP,Amroha PS,Nagaland,4,34
+O393,Nehmat Som,ACP,Latur PS,Gujarat,3,29
+O394,Armaan Dara,DCP,Ichalkaranji PS,Nagaland,4,36
+O395,Indrajit Wable,Inspector,Guwahati PS,Karnataka,2,13
+O396,Zara Sem,Inspector,Loni PS,Haryana,2,43
+O397,Advika Virk,ACP,Nashik PS,West Bengal,3,5
+O398,Anika Saraf,DCP,Tadepalligudem PS,Nagaland,4,38
+O399,Vanya Lanka,DCP,Bulandshahr PS,Himachal Pradesh,4,36
+O400,Dishani Sarkar,SP,Tiruppur PS,Punjab,5,3
+O401,Ritvik Gokhale,SP,Gandhinagar PS,Assam,5,34
+O402,Fateh Swaminathan,SP,Belgaum PS,Jharkhand,5,7
+O403,Dishani Mane,SI,Navi Mumbai PS,Bihar,1,0
+O404,Lakshay Madan,Inspector,Hosur PS,Jharkhand,2,11
+O405,Miraan Sagar,ACP,Bharatpur PS,Sikkim,3,14
+O406,Myra Chawla,DCP,Dhule PS,Uttarakhand,4,0
+O407,Jayesh Rajan,DCP,Ahmedabad PS,Andhra Pradesh,4,36
+O408,Darshit Krish,Inspector,Motihari PS,Haryana,2,34
+O409,Indrajit Banik,DCP,Phagwara PS,Uttarakhand,4,45
+O410,Aniruddh Divan,SP,Motihari PS,Nagaland,5,2
+O411,Bhavin Kumer,Inspector,Ambattur PS,Uttarakhand,2,45
+O412,Mannat Rastogi,SP,Surat PS,Goa,5,29
+O413,Madhup Ravi,ACP,Mau PS,Assam,3,25
+O414,Devansh Vaidya,DCP,Raebareli PS,Haryana,4,3
+O415,Samarth Varma,ACP,Ujjain PS,Mizoram,3,2
+O416,Gokul Ray,SP,Dindigul PS,Kerala,5,7
+O417,Nakul Ratta,DCP,Bettiah PS,Jharkhand,4,9
+O418,Nirvi Suri,SI,Gangtok PS,Mizoram,1,38
+O419,Ritvik Kalita,SI,Madurai PS,Maharashtra,1,7
+O420,Zain Tak,SP,Gandhidham PS,Gujarat,5,42
+O421,Riaan Sandal,ACP,Purnia PS,Odisha,3,7
+O422,Saira Issac,SI,Darbhanga PS,Bihar,1,41
+O423,Jhanvi Grover,Inspector,Nandyal PS,Himachal Pradesh,2,5
+O424,Kimaya Arya,DCP,Chittoor PS,West Bengal,4,20
+O425,Anya Badami,SI,Bhavnagar PS,Manipur,1,1
+O426,Aaina Bhatnagar,ACP,Chandigarh PS,Himachal Pradesh,3,28
+O427,Lagan Sibal,Inspector,Jamnagar PS,Chhattisgarh,2,12
+O428,Baiju Gokhale,ACP,Alwar PS,Meghalaya,3,24
+O429,Ira Sharaf,DCP,Guna PS,West Bengal,4,19
+O430,Elakshi Shroff,ACP,Bathinda PS,Goa,3,39
+O431,Divit Soni,SP,Ambarnath PS,Bihar,5,44
+O432,Elakshi Arya,Inspector,Mehsana PS,Chhattisgarh,2,39
+O433,Hiran Sarkar,SI,Jalna PS,Bihar,1,8
+O434,Aarna Bassi,ACP,Thoothukudi PS,Maharashtra,3,5
+O435,Prerak Chandra,Inspector,Bongaigaon PS,Tamil Nadu,2,37
+O436,Ahana  Dugal,DCP,Chandrapur PS,Himachal Pradesh,4,35
+O437,Nirvaan Kulkarni,SI,Madhyamgram PS,Gujarat,1,34
+O438,Chirag Chhabra,ACP,Ballia PS,Assam,3,21
+O439,Zaina Bhagat,Inspector,Nandyal PS,Gujarat,2,26
+O440,Kartik Boase,SI,Secunderabad PS,Goa,1,49
+O441,Neelofar Sastry,SP,Bhalswa Jahangir Pur PS,Manipur,5,46
+O442,Sara Warrior,DCP,Ranchi PS,Haryana,4,48
+O443,Divit Jain,DCP,Korba PS,Telangana,4,17
+O444,Misha Borah,DCP,Satna PS,Sikkim,4,35
+O445,Hridaan Sunder,SI,Bidhannagar PS,Kerala,1,23
+O446,Divit Bansal,SP,Gudivada PS,Karnataka,5,35
+O447,Badal Dani,DCP,Bokaro PS,West Bengal,4,47
+O448,Ivan Iyer,SI,Bikaner PS,Mizoram,1,37
+O449,Sumer Basak,SP,Silchar PS,Madhya Pradesh,5,23
+O450,Reyansh Ben,Inspector,Baranagar PS,Chhattisgarh,2,23
+O451,Veer Garde,Inspector,Silchar PS,Uttarakhand,2,3
+O452,Misha Mahal,DCP,Bidhannagar PS,Arunachal Pradesh,4,33
+O453,Elakshi Karnik,DCP,Kottayam PS,Kerala,4,31
+O454,Raghav Ben,ACP,Sikar PS,Sikkim,3,4
+O455,Anika Bhalla,Inspector,Mau PS,West Bengal,2,13
+O456,Anay Sankar,DCP,Giridih PS,Madhya Pradesh,4,23
+O457,Seher Balay,SP,Salem PS,Punjab,5,17
+O458,Eshani Chakrabarti,DCP,Mumbai PS,Nagaland,4,28
+O459,Aaina Cheema,SI,Kozhikode PS,Nagaland,1,49
+O460,Manjari Chakrabarti,ACP,Nandyal PS,West Bengal,3,21
+O461,Jivin D’Alia,DCP,Firozabad PS,Punjab,4,16
+O462,Navya Sur,SP,Guwahati PS,Sikkim,5,21
+O463,Inaaya  Sem,Inspector,Dibrugarh PS,Uttarakhand,2,18
+O464,Aarna Luthra,DCP,Bareilly PS,Nagaland,4,49
+O465,Vedika Chandra,Inspector,Aligarh PS,Uttarakhand,2,9
+O466,Pranay Biswas,DCP,Warangal PS,Rajasthan,4,47
+O467,Hridaan Vohra,ACP,Ajmer PS,Nagaland,3,15
+O468,Amira Bir,SI,Mumbai PS,Odisha,1,13
+O469,Dharmajan Boase,ACP,Shimla PS,Gujarat,3,13
+O470,Charvi Chaudry,ACP,Jalandhar PS,Assam,3,20
+O471,Himmat Apte,ACP,Kirari Suleman Nagar PS,Mizoram,3,9
+O472,Aarush Badal,DCP,Shivpuri PS,Meghalaya,4,40
+O473,Sahil Madan,ACP,Bokaro PS,Bihar,3,45
+O474,Shayak Varkey,DCP,Siwan PS,Assam,4,27
+O475,Stuvan Ben,SP,Davanagere PS,Himachal Pradesh,5,4
+O476,Aarav Kuruvilla,Inspector,Thanjavur PS,Maharashtra,2,2
+O477,Umang Jhaveri,ACP,Yamunanagar PS,Bihar,3,42
+O478,Anaya Choudhry,DCP,Khandwa PS,Punjab,4,13
+O479,Krish Zachariah,SP,Ranchi PS,Maharashtra,5,4
+O480,Jiya Kibe,DCP,Gurgaon PS,Nagaland,4,41
+O481,Ryan Bhatia,SI,Dehradun PS,Assam,1,2
+O482,Yasmin Mani,Inspector,Ranchi PS,Madhya Pradesh,2,38
+O483,Riya Dara,DCP,Jehanabad PS,Jharkhand,4,39
+O484,Ojas Bhatnagar,SI,Panihati PS,Karnataka,1,27
+O485,Shanaya Setty,ACP,Jaunpur PS,Haryana,3,37
+O486,Shamik Sem,Inspector,Thiruvananthapuram PS,Himachal Pradesh,2,46
+O487,Anahita Butala,ACP,Kurnool PS,Andhra Pradesh,3,40
+O488,Priyansh Trivedi,ACP,Agra PS,Manipur,3,35
+O489,Sumer Sahota,Inspector,Thrissur PS,Haryana,2,26
+O490,Madhav Mahal,DCP,Machilipatnam PS,Uttar Pradesh,4,19
+O491,Anika Upadhyay,Inspector,Tiruvottiyur PS,Goa,2,3
+O492,Samaira Kurian,SI,Raipur PS,Gujarat,1,33
+O493,Romil Shah,SP,Bijapur PS,Haryana,5,39
+O494,Vedika Reddy,Inspector,Anand PS,Telangana,2,32
+O495,Kimaya Kar,DCP,Suryapet PS,Goa,4,38
+O496,Divyansh Borah,DCP,Anantapuram PS,Maharashtra,4,28
+O497,Arnav Thaker,SI,Yamunanagar PS,Himachal Pradesh,1,44
+O498,Hiran Srinivasan,Inspector,Vijayanagaram PS,Bihar,2,27
+O499,Umang Bir,DCP,Jabalpur PS,Bihar,4,27
+O500,Chirag Chada,SI,Bokaro PS,Assam,1,32
+O501,Vritika Butala,SI,Bhind PS,Goa,1,34
+O502,Keya Raj,ACP,Moradabad PS,Arunachal Pradesh,3,14
+O503,Reyansh Vig,SI,Hindupur PS,Uttarakhand,1,39
+O504,Advik Tara,SP,Bidhannagar PS,Meghalaya,5,38
+O505,Rania Koshy,DCP,Muzaffarpur PS,Uttarakhand,4,36
+O506,Hridaan Sachdeva,SI,Nadiad PS,Tamil Nadu,1,18
+O507,Aaina Dixit,SP,Ghaziabad PS,Uttarakhand,5,43
+O508,Chirag Deep,SP,Patna PS,Gujarat,5,42
+O509,Onkar Sarna,Inspector,Bally PS,Gujarat,2,19
+O510,Shray Bhatnagar,ACP,Gangtok PS,West Bengal,3,28
+O511,Devansh Ratti,Inspector,Vadodara PS,Manipur,2,27
+O512,Nehmat Thakkar,SP,Moradabad PS,Chhattisgarh,5,28
+O513,Urvi Dubey,DCP,Bathinda PS,Bihar,4,7
+O514,Kiaan Gour,SP,Tinsukia PS,Arunachal Pradesh,5,47
+O515,Ira Guha,DCP,Dehri PS,Himachal Pradesh,4,39
+O516,Lakshit Sengupta,Inspector,Ramgarh PS,Mizoram,2,33
+O517,Vanya Bhatnagar,SP,Faridabad PS,Gujarat,5,44
+O518,Sahil Acharya,Inspector,Gorakhpur PS,Maharashtra,2,25
+O519,Armaan Aggarwal,Inspector,Maheshtala PS,Uttar Pradesh,2,17
+O520,Kabir Bal,Inspector,Hosur PS,Tripura,2,40
+O521,Tarini Sharma,DCP,Junagadh PS,Manipur,4,42
+O522,Shalv Mane,DCP,Satara PS,Himachal Pradesh,4,30
+O523,Shalv Brahmbhatt,Inspector,Aligarh PS,Karnataka,2,12
+O524,Aniruddh Barad,DCP,Gorakhpur PS,Arunachal Pradesh,4,12
+O525,Pari Anand,ACP,Silchar PS,Uttarakhand,3,35
+O526,Himmat Halder,Inspector,Korba PS,West Bengal,2,24
+O527,Nitya Rajagopal,SP,Shimla PS,Nagaland,5,33
+O528,Nirvi Krishnamurthy,DCP,Madanapalle PS,Tamil Nadu,4,32
+O529,Yakshit Sani,SI,Visakhapatnam PS,Sikkim,1,4
+O530,Kabir Agrawal,Inspector,Kadapa PS,Uttarakhand,2,14
+O531,Gokul Sane,SP,Sangli-Miraj & Kupwad PS,Punjab,5,2
+O532,Bhamini Sibal,DCP,Indore PS,Telangana,4,27
+O533,Piya Andra,DCP,Panchkula PS,Maharashtra,4,15
+O534,Onkar Choudhury,SP,Thane PS,Assam,5,44
+O535,Mahika Varghese,SI,Sasaram PS,Mizoram,1,17
+O536,Umang Rattan,DCP,Karimnagar PS,Sikkim,4,26
+O537,Drishya Bansal,ACP,Bhatpara PS,Gujarat,3,32
+O538,Samiha Singh,DCP,Kavali PS,Maharashtra,4,20
+O539,Siya Kashyap,DCP,Vijayawada PS,Telangana,4,49
+O540,Amani Rajagopal,ACP,Bulandshahr PS,Kerala,3,26
+O541,Neysa Rau,ACP,Malegaon PS,Gujarat,3,27
+O542,Reyansh Srinivasan,ACP,Pondicherry PS,Tamil Nadu,3,40
+O543,Anya Venkataraman,SI,Saharsa PS,Goa,1,6
+O544,Seher Raja,SP,Begusarai PS,Karnataka,5,4
+O545,Tarini Kannan,ACP,Gandhidham PS,Kerala,3,13
+O546,Elakshi Tara,SP,Nanded PS,Assam,5,26
+O547,Kavya Vohra,Inspector,Loni PS,Karnataka,2,26
+O548,Taimur Banik,DCP,Mehsana PS,Andhra Pradesh,4,27
+O549,Anya Sem,DCP,Singrauli PS,Karnataka,4,21
+O550,Lagan Sahota,DCP,Proddatur PS,Goa,4,9
+O551,Taran Vala,ACP,Orai PS,Tripura,3,44
+O552,Devansh Sem,ACP,Jhansi PS,Uttar Pradesh,3,47
+O553,Eva Date,SI,Lucknow PS,Uttarakhand,1,31
+O554,Keya Sharma,DCP,Karawal Nagar PS,Tripura,4,9
+O555,Saanvi Balan,DCP,Junagadh PS,Bihar,4,0
+O556,Jayan Sur,ACP,Ramgarh PS,Andhra Pradesh,3,5
+O557,Misha Doshi,Inspector,Vasai-Virar PS,Chhattisgarh,2,14
+O558,Tejas Ramaswamy,SI,Thoothukudi PS,Madhya Pradesh,1,44
+O559,Reyansh Gill,SP,Mathura PS,Kerala,5,45
+O560,Akarsh Thaman,SP,South Dumdum PS,Uttar Pradesh,5,17
+O561,Indrajit Raja,ACP,Raichur PS,Uttarakhand,3,42
+O562,Yuvaan Iyer,SI,Firozabad PS,Mizoram,1,46
+O563,Arhaan Deshmukh,Inspector,Shivpuri PS,Gujarat,2,32
+O564,Manjari Sahota,SP,Delhi PS,Tamil Nadu,5,11
+O565,Aarna Kunda,SI,Ramgarh PS,Maharashtra,1,16
+O566,Himmat Raman,SP,Mau PS,Madhya Pradesh,5,33
+O567,Ishaan Deshpande,DCP,Kamarhati PS,Manipur,4,43
+O568,Ivana Biswas,DCP,Vellore PS,Chhattisgarh,4,24
+O569,Heer Batra,SI,Ahmedabad PS,Manipur,1,6
+O570,Purab Sur,ACP,Ozhukarai PS,Bihar,3,4
+O571,Amani Viswanathan,SP,Sri Ganganagar PS,Tripura,5,12
+O572,Anya Chauhan,DCP,Kakinada PS,Nagaland,4,0
+O573,Kiara Dass,SI,Naihati PS,Mizoram,1,50
+O574,Vidur Garg,DCP,Katihar PS,Manipur,4,8
+O575,Navya Luthra,SP,Bongaigaon PS,Bihar,5,47
+O576,Azad Rattan,DCP,Parbhani PS,Punjab,4,13
+O577,Indranil Gandhi,SP,Anantapur PS,West Bengal,5,46
+O578,Riaan Thakur,DCP,Siwan PS,Sikkim,4,40
+O579,Arnav Trivedi,SP,Hospet PS,Mizoram,5,47
+O580,Jayan Dhillon,SP,Pondicherry PS,Meghalaya,5,36
+O581,Gatik Balasubramanian,DCP,Nagaon PS,Goa,4,17
+O582,Zoya Lad,SP,New Delhi PS,Uttarakhand,5,9
+O583,Baiju Anand,SP,Bihar Sharif PS,Gujarat,5,12
+O584,Vardaniya Sheth,SI,Vasai-Virar PS,Maharashtra,1,21
+O585,Faiyaz Bhargava,Inspector,Karimnagar PS,Chhattisgarh,2,45
+O586,Vaibhav Sarkar,Inspector,Nandyal PS,Maharashtra,2,29
+O587,Anay Gola,DCP,Danapur PS,Punjab,4,0
+O588,Ryan Tella,SI,Saharanpur PS,Bihar,1,23
+O589,Kashvi Buch,ACP,Kurnool PS,West Bengal,3,23
+O590,Akarsh Goswami,SI,Tirunelveli PS,Tripura,1,36
+O591,Chirag Zacharia,DCP,Etawah PS,Uttarakhand,4,46
+O592,Nitara Thakur,Inspector,Kanpur PS,Uttar Pradesh,2,9
+O593,Farhan Tandon,SI,Thiruvananthapuram PS,Andhra Pradesh,1,10
+O594,Heer Varty,SP,Ambattur PS,Meghalaya,5,31
+O595,Biju Sundaram,Inspector,Mehsana PS,Himachal Pradesh,2,19
+O596,Baiju Babu,Inspector,Hyderabad PS,Jharkhand,2,28
+O597,Faiyaz Batta,SI,Ranchi PS,Punjab,1,6
+O598,Navya Handa,DCP,Mangalore PS,Meghalaya,4,44
+O599,Siya Soni,SP,Bhind PS,Meghalaya,5,14
+O600,Taimur Upadhyay,SP,Barasat PS,West Bengal,5,36
